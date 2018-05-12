@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34434
 description: I. Men, women, and gods -- II. Vicarious atonement -- III. Historical
   facts and theological fictions -- Appendix.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30207#Men-Women-and-GodsAnd-Other-Lectures
 gutenberg_issued: '2009-10-06'
 gutenberg_type: Text
 identifiers:
