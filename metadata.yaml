@@ -1,0 +1,42 @@
+_repo: Men-Women-and-GodsAnd-Other-Lectures_30207
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Ingersoll, Robert Green
+    aliases:
+    - Ingersoll, Bob
+    - Ingersoll, Robert G. (Robert Green)
+    - Ingersoll, R. G. (Robert Green)
+    birthdate: 1833
+    deathdate: 1899
+    gutenberg_agent_id: '2662'
+    url: http://www.gutenberg.org/2009/agents/2662
+    wikipedia: http://en.wikipedia.org/wiki/Robert_G._Ingersoll
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gardener, Helen H. (Helen Hamilton)
+    alias: Chenoweth, Alice
+    birthdate: 1853
+    deathdate: 1925
+    gutenberg_agent_id: '34434'
+    url: http://www.gutenberg.org/2009/agents/34434
+description: I. Men, women, and gods -- II. Vicarious atonement -- III. Historical
+  facts and theological fictions -- Appendix.
+gutenberg_issued: '2009-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30207'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Free thought'
+- !lcc 'BL'
+tableOfContents: I. Men, women, and gods -- II. Vicarious atonement -- III. Historical
+  facts and theological fictions -- Appendix.
+title: Men, Women, and Gods; and Other Lectures
+url: http://www.gutenberg.org/ebooks/30207
